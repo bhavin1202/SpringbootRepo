@@ -11,7 +11,7 @@ public class TestController {
 	@ResponseBody
 	public String Testhandler()
 	{
-		return "Welcome to first sts Demo World";
+		return "Welcome to first sts git check Demo World";
 	}
 	
 	@RequestMapping("/home")
